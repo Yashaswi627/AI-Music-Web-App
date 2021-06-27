@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px gray;
+}
+
+canvas{
+    border: 3px blue solid;
+    box-shadow: 3px 3px 5px blue;
+}
