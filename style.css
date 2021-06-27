@@ -10,5 +10,5 @@ body {
 
 canvas{
     border: 3px blue solid;
-    box-shadow: 3px 3px 5px blue;
+    border-radius: 20px;
 }
