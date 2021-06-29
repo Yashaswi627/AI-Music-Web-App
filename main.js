@@ -11,9 +11,9 @@ function setup() {
     canvas.center();
 
     video = createCapture(VIDEO);
-    video.hide;
+    video.hide();
 }
 
 function draw() {
-    image(video, 0, 0, canvas.width, canvas.height);
+    image(video, 0, 0, 600, 500);
 }
